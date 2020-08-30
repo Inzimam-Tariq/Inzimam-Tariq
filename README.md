@@ -27,9 +27,6 @@
 
 
 
-
-
-
 [youtube]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
-[webdevplaylist][https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ]
+[webdevplaylist]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
 [youtube][https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ]
