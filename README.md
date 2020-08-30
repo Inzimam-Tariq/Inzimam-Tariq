@@ -15,11 +15,13 @@
 ### Connect with me:
 [<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 
+<br>
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">][webdevplaylist]
 
-
+<br>
+<br>
 
 
 
@@ -29,4 +31,5 @@
 
 
 [youtube]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
+[webdevplaylist][https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ]
 [youtube][https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ]
