@@ -37,6 +37,10 @@
 
 [![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=Inzimam-Tariq)](https://github.com/Inzimam-Tariq/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inzimam-Tariq&layout=compact)](https://github.com/Inzimam-Tariq/github-readme-stats)
+
 
 
 [youtube]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
