@@ -35,7 +35,6 @@
 
 ---
 
-#<img align="left" alt="Inzimam Tariq's github stats" src=""/>
 [![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=Inzimam-Tariq)](https://github.com/Inzimam-Tariq/github-readme-stats)
 
 
