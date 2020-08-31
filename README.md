@@ -25,6 +25,11 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [show processlist is listing a specific process again and again](https://stackoverflow.com/questions/63050507/show-processlist-is-listing-a-specific-process-again-and-again)
+- [how to load self hosted tiles in mabbox in android](https://stackoverflow.com/questions/62128879/how-to-load-self-hosted-tiles-in-mabbox-in-android)
+- [No method from my Adapter is being called except the Constructor](https://stackoverflow.com/questions/61970367/no-method-from-my-adapter-is-being-called-except-the-constructor)
+- [Answer by Inzimam Tariq IT for git: fatal: I don't handle protocol '​​http'](https://stackoverflow.com/questions/30474447/git-fatal-i-dont-handle-protocol-http/61364670#61364670)
+- [Answer by Inzimam Tariq IT for Androidx customize navigationItem selected action](https://stackoverflow.com/questions/61205820/androidx-customize-navigationitem-selected-action/61209818#61209818)
 <!-- STACKOVERFLOW:END -->
 
 
