@@ -36,7 +36,10 @@
 ---
 
 #### I know its less than usual, its because in the current year I have private repos on GitLab & BitBucket (mostly this year I worked for employers).
-[![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=Inzimam-Tariq&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/Inzimam-Tariq/github-readme-stats)
+[![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=Inzimam-Tariq&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/Inzimam-Tariq/github-readme-stats)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inzimam-Tariq&layout=compact)](https://github.com/Inzimam-Tariq/github-readme-stats)
 
 
