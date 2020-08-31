@@ -35,7 +35,7 @@
 
 ---
 
-[![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=Inzimam-Tariq)](https://github.com/Inzimam-Tariq/github-readme-stats)
+[![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=Inzimam-Tariq&count_private=true&show_icons=true)](https://github.com/Inzimam-Tariq/github-readme-stats)
 
 ---
 
