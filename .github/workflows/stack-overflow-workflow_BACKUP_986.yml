@@ -5,8 +5,11 @@ on:
     - cron: '*/5 * * * *'
     # Runs every hour
     #- cron: '0 * * * *'
+<<<<<<< HEAD
+    #workflow_dispatch:
+=======
   #workflow_dispatch:
-
+>>>>>>> e5a3b966d37144c18834c9cf44a7faa840bd3334
 
 jobs:
   update-readme-with-stack-overflow:
