@@ -23,7 +23,7 @@
 <br>
 <br>
 
-# StackOverflow Activity
+# Latest StackOverflow Activities
 <!-- STACKOVERFLOW:START -->
 - [show processlist is listing a specific process again and again](https://stackoverflow.com/questions/63050507/show-processlist-is-listing-a-specific-process-again-and-again)
 - [how to load self hosted tiles in mabbox in android](https://stackoverflow.com/questions/62128879/how-to-load-self-hosted-tiles-in-mabbox-in-android)
@@ -32,6 +32,10 @@
 - [Answer by Inzimam Tariq IT for Androidx customize navigationItem selected action](https://stackoverflow.com/questions/61205820/androidx-customize-navigationitem-selected-action/61209818#61209818)
 <!-- STACKOVERFLOW:END -->
 
+
+---
+
+[![Inzimam Tariq's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Inzimam-Tariq/github-readme-stats)
 
 
 
