@@ -67,9 +67,12 @@
 [phpstorm]:https://www.jetbrains.com/phpstorm/
 [python]:https://www.python.org/
 [pycharm]:https://www.jetbrains.com/pycharm/
+[visualstudio]:https://visualstudio.microsoft.com/
+[sublimetext]:https://www.sublimetext.com/
+[brackets]:http://brackets.io/
 
 
-[email]:https://maito:inzi769@gmail.com
+[email]:maito:inzi769@gmail.com
 [youtube]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
 [facebook]:https://www.facebook.com/inzimam.tariq/
 [skype]:https://join.skype.com/invite/XBa0h6WlvBl9
