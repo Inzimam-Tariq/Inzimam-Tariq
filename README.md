@@ -13,17 +13,29 @@
 - ⚡ Fun fact: I love to solve problems via coding, Play physical games, Watch Movies.
 
 ### Connect with me:
-[<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/IDEs/androidstudio-icon.png"/>][youtube]
-[<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Inzimam Tariq - Youtube" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="Email" width=22px height=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/social-media-icons/email-icon.png"/>][email]
+[<img align="left" alt="Youtube" width=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/social-media-icons/youtube-icon.png"/>][youtube]
+[<img align="left" alt="Facebook" width=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/social-media-icons/facebook-icon.png"/>][facebook]
+[<img align="left" alt="Skype" width=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/social-media-icons/skype-icon.png"/>][skype]
+[<img align="left" alt="WhatsApp" width=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/social-media-icons/whatsapp-icon.jpg"/>][whatsapp]
+[<img align="left" alt="Twitter" width=22px src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/social-media-icons/twitter-icon.png"/>][twitter]
+
 
 <br>
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/programming-languages-icons/java-icon.jpg">][java]
+[<img align="left" alt="Android Studio" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/androidstudio-icon.png">][androidstudio]
+[<img align="left" alt="Netbeans" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/apache-netbeans-icon.png">][netbeans]
+[<img align="left" alt="Python" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/programming-languages-icons/python-icon.png">][python]
+[<img align="left" alt="Py Charm" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/pycharm-icon.jpg">][pycharm]
+[<img align="left" alt="PHP" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/programming-languages-icons/php-icon.png">][php]
+[<img align="left" alt="PHP" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/phpstrom-icon.png">][phpstorm]
+[<img align="left" alt="Visual Studio" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/visualstudio-icon.png">][visualstudio]
+[<img align="left" alt="Sublime Text" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/sublimetext-icon.jpg">][sublimetext]
+[<img align="left" alt="Brackets" width="26px" src="https://github.com/Inzimam-Tariq/CommonResources/blob/main/ide-icons/brackets-icon.png">][brackets]
+
+
 
 <br>
 <br>
@@ -48,6 +60,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inzimam-Tariq&layout=compact)](https://github.com/Inzimam-Tariq/github-readme-stats)
 
 
+[java]:https://go.java/?intcmp=gojava-banner-java-com
+[androidstudio]:https://developer.android.com/studio
+[netbeans]:https://netbeans.apache.org/
+[php]:https://www.php.net/
+[phpstorm]:https://www.jetbrains.com/phpstorm/
+[python]:https://www.python.org/
+[pycharm]:https://www.jetbrains.com/pycharm/
 
+
+[email]:https://maito:inzi769@gmail.com
 [youtube]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
+[facebook]:https://www.facebook.com/inzimam.tariq/
+[skype]:https://join.skype.com/invite/XBa0h6WlvBl9
+[whatsapp]:https://wa.me/923324841476
+[twitter]:https://twitter.com/InzimamTariq
+
 [webdevplaylist]:https://www.youtube.com/channel/UC7bI-E7n8X_mOoRDH-6yttQ
