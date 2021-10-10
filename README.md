@@ -5,8 +5,8 @@
 -->
 ## I have Android & Java Development as my major domain but have also worked in some other Languages and Frameworks i.e. Python, Django, C++, HTML, CSS, Javascript, Bootstrap etc.
 
-- 🔭 I’m currently working on Some Python Projects and Some Android Apps that are in the ownership of my Employers (Currently I work for Two Employers).
-- 🌱 I’m currently learning Advance Django, GeoDjango and Adnvance Android Prcatices.
+- 🔭 I’m currently working on Some Python Projects and Some Android Apps that are in the ownership of my Employers (Currently I work for Two Employers 1. PDMA-Provincial Disaster Management Authority, 2. TMG-Tech Maven Geospatial).
+- 🌱 I’m currently learning Advance Spring boot, Django, GeoDjango and Android Practices.
 - 👯 I’m looking to collaborate on open sources libs...
 - 💬 Ask me about Android, Java (J2SE - FX, Swing -- J2EE - SpringBoot, SpringSecurity, JSP, JPA, Rest API, Maven -- Python - Django) .
 - 📫 How to reach me: Preferably I would like to be contacted through Youtube channel or Email but other options are also here.
